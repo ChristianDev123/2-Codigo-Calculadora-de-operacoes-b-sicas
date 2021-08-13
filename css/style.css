@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height:700px;
+    width: 700px;
+    margin: auto;
+
+}
+h2{
+    text-align: right;
+    margin-top: -753px;
+    margin-right: 500px;
+}
