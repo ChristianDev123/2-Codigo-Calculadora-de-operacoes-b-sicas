@@ -13,10 +13,10 @@ Segundo app desenvolvido por mim. Projeto desenvolvido durante Imersao Dev Alura
 No CMD do Windows ou no Bash do Linux Siga os Seguintes Passos:
 
 ```cmd
-    git clone https://github.com/ChristianDev123/1-Codigo-Conversor-de-Moeda-Dolar-para-Euro.git
+    git clone https://github.com/ChristianDev123/2-Codigo-Calculadora-de-operacoes-basicas.git
 ```
 ```cmd
-    cd 1-Codigo-Conversor-de-Moeda-Dolar-para-Euro
+    cd 2-Codigo-Calculadora-de-operacoes-basicas
 ```
 ```cmd
    code . 
