@@ -1,6 +1,6 @@
 # Calculadora de operações básicas
 
-Link Deploy: <https://github.com/ChristianDev123/2-Codigo-Calculadora-de-operacoes-basicas/>
+Link Deploy: <https://christiandev123.github.io/2-Codigo-Calculadora-de-operacoes-basicas/>
 
 Segundo app desenvolvido por mim. Projeto desenvolvido durante Imersao Dev Alura 2021.
 
